@@ -5,7 +5,7 @@
   },
   "products": [
     {
-      "id": 1,
+      "id": "prod-a427719c-001",
       "name": "The Great Gatsby",
       "category": "books",
       "price": 12.99,
@@ -13,7 +13,7 @@
       "rating": 4.5
     },
     {
-      "id": 2,
+      "id": "prod-a427719c-002",
       "name": "To Kill a Mockingbird",
       "category": "books",
       "price": 14.99,
@@ -21,7 +21,7 @@
       "rating": 4.8
     },
     {
-      "id": 3,
+      "id": "prod-a427719c-003",
       "name": "1984",
       "category": "books",
       "price": 11.99,
@@ -29,7 +29,7 @@
       "rating": 4.7
     },
     {
-      "id": 4,
+      "id": "prod-a427719c-004",
       "name": "Wireless Mouse",
       "category": "electronics",
       "price": 24.99,
@@ -37,7 +37,7 @@
       "rating": 4.3
     },
     {
-      "id": 5,
+      "id": "prod-a427719c-005",
       "name": "Bluetooth Headphones",
       "category": "electronics",
       "price": 79.99,
@@ -45,7 +45,7 @@
       "rating": 4.6
     },
     {
-      "id": 6,
+      "id": "prod-a427719c-006",
       "name": "USB-C Cable",
       "category": "electronics",
       "price": 9.99,
@@ -53,7 +53,7 @@
       "rating": 4.2
     },
     {
-      "id": 7,
+      "id": "prod-a427719c-007",
       "name": "Cotton T-Shirt",
       "category": "clothing",
       "price": 19.99,
@@ -61,7 +61,7 @@
       "rating": 4.4
     },
     {
-      "id": 8,
+      "id": "prod-a427719c-008",
       "name": "Jeans",
       "category": "clothing",
       "price": 49.99,
@@ -69,7 +69,7 @@
       "rating": 4.5
     },
     {
-      "id": 9,
+      "id": "prod-a427719c-009",
       "name": "Hoodie",
       "category": "clothing",
       "price": 39.99,
@@ -77,7 +77,7 @@
       "rating": 4.7
     },
     {
-      "id": 10,
+      "id": "prod-a427719c-010",
       "name": "Coffee Maker",
       "category": "home",
       "price": 89.99,
@@ -85,7 +85,7 @@
       "rating": 4.4
     },
     {
-      "id": 11,
+      "id": "prod-a427719c-011",
       "name": "Toaster",
       "category": "home",
       "price": 34.99,
@@ -93,7 +93,7 @@
       "rating": 4.1
     },
     {
-      "id": 12,
+      "id": "prod-a427719c-012",
       "name": "Blender",
       "category": "home",
       "price": 54.99,
@@ -101,7 +101,7 @@
       "rating": 4.3
     },
     {
-      "id": 13,
+      "id": "prod-a427719c-013",
       "name": "Yoga Mat",
       "category": "sports",
       "price": 24.99,
@@ -109,7 +109,7 @@
       "rating": 4.5
     },
     {
-      "id": 14,
+      "id": "prod-a427719c-014",
       "name": "Dumbbells Set",
       "category": "sports",
       "price": 69.99,
@@ -117,7 +117,7 @@
       "rating": 4.8
     },
     {
-      "id": 15,
+      "id": "prod-a427719c-015",
       "name": "Jump Rope",
       "category": "sports",
       "price": 14.99,
@@ -125,7 +125,7 @@
       "rating": 4.2
     },
     {
-      "id": 16,
+      "id": "prod-a427719c-016",
       "name": "Notebook",
       "category": "stationery",
       "price": 3.99,
@@ -133,7 +133,7 @@
       "rating": 4.6
     },
     {
-      "id": 17,
+      "id": "prod-a427719c-017",
       "name": "Pen Set",
       "category": "stationery",
       "price": 7.99,
@@ -141,7 +141,7 @@
       "rating": 4.3
     },
     {
-      "id": 18,
+      "id": "prod-a427719c-018",
       "name": "Desk Organizer",
       "category": "stationery",
       "price": 16.99,
@@ -152,7 +152,7 @@
   "aggregations": {
     "books": {
       "count": 3,
-      "inventoryValue": 69842.25
+      "inventoryValue": 1399.95
     },
     "electronics": {
       "count": 3,
